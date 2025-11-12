@@ -69,7 +69,7 @@ config="${mod_id}.mixins.json"
     # Optional field describing why the dependency is required or why it is incompatible
     # reason="..."
     # The version range of the dependency
-    versionRange="[${neo_version},)" #mandatory
+    versionRange="[0,)" #mandatory
     # An ordering relationship for the dependency.
     # BEFORE - This mod is loaded BEFORE the dependency
     # AFTER - This mod is loaded AFTER the dependency
@@ -93,4 +93,4 @@ config="${mod_id}.mixins.json"
 #openGLVersion="[3.2,)"
 
 [modproperties.${ mod_id }."yumi:entrypoints"]
-"lambdynlights:initializer" = "${mod_group_id}.light.ModLightsEntry"
+    "lambdynlights:initializer" = "${mod_group_id}.light.ModLightsEntry"

@@ -1,0 +1,13 @@
+{
+  "itemGroup.myriadtweaks": "Example Mod Tab",
+  "block.myriadtweaks.example_block": "Example Block",
+  "item.myriadtweaks.example_item": "Example Item",
+
+  "myriadtweaks.configuration.title": "Myriad Tweaks Configs",
+  "myriadtweaks.configuration.section.myriadtweaks.common.toml": "Myriad Tweaks Configs",
+  "myriadtweaks.configuration.section.myriadtweaks.common.toml.title": "Myriad Tweaks Configs",
+  "myriadtweaks.configuration.items": "Item List",
+  "myriadtweaks.configuration.logDirtBlock": "Log Dirt Block",
+  "myriadtweaks.configuration.magicNumberIntroduction": "Magic Number Text",
+  "myriadtweaks.configuration.magicNumber": "Magic Number"
+}
